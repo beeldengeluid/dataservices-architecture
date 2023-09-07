@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dataset owner"
+    id="id-0e0c3fd76aa541b89d9390e17b960621"
+    documentation="Requests that a dataset be published, updated, deleted, made available in tools etc."/>

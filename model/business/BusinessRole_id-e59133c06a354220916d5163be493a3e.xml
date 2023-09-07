@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data explorer"
+    id="id-e59133c06a354220916d5163be493a3e"
+    documentation="exploring a collection to find which specific data they want"/>

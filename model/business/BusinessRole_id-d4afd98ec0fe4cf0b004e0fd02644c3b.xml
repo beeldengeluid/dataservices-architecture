@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data engineer"
+    id="id-d4afd98ec0fe4cf0b004e0fd02644c3b"
+    documentation="models data, makes data available"/>
