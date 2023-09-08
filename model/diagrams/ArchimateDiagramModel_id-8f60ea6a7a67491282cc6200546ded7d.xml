@@ -603,4 +603,15 @@
         width="205"
         height="80"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-b12c08b8dc4f44a08121d3175995bcba"
+      textAlignment="1"
+      content="SV: Ik zou zeggen wel de data stories website, niet dingen zonder zichtbaarheid (maar misschien willen we die wel elders neerzetten om ze in beeld te houden)">
+    <bounds
+        x="1236"
+        y="571"
+        width="185"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>
