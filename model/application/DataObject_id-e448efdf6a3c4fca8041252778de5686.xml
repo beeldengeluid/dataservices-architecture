@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Computational Notebook"
-    id="id-e448efdf6a3c4fca8041252778de5686"/>
+    name="BenG Jupyter Notebooks"
+    id="id-e448efdf6a3c4fca8041252778de5686"
+    documentation="Examples of analysis that can be performed with NISV data"/>

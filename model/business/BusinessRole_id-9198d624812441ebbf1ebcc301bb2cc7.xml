@@ -1,5 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Collection shopper"
+    name="Dataset shopper"
     id="id-9198d624812441ebbf1ebcc301bb2cc7"
     documentation="Wants to know:&#xD;&#xA;which collections&#xD;&#xA;what sort of data is available in a collection"/>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RSE may be the same person"
+    id="id-3ee7e29214f048bf89b972393846bcdf">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-9d54ebf1700c4a099c667424b56255a7.xml#id-9d54ebf1700c4a099c667424b56255a7"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-f939e9e8aaa4486b8e8a150faaf97e9f.xml#id-f939e9e8aaa4486b8e8a150faaf97e9f"/>
+</archimate:ServingRelationship>

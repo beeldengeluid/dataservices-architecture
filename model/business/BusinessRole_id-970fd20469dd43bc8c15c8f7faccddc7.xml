@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Dashboard user"
-    id="id-970fd20469dd43bc8c15c8f7faccddc7"/>
+    name="Dataset inspector"
+    id="id-970fd20469dd43bc8c15c8f7faccddc7"
+    documentation="Wants to learn about a dataset by inspecting aggregations/statistics"/>
