@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Thesaurus Service Layer"
     id="id-eb487bae93bb47c8970ff8e8499718f6"
-    documentation="Provides access to the GTAA thesaurus, used by NISV. Allows search. **Willem - wie heeft toegang?**"/>
+    documentation="Set of services that provide public access to the GTAA data as well as an API that enables registered users to manage the content.&#xD;&#xA;"/>
