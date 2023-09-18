@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data aggregator"
+    id="id-f3ae1dfa2777400bb19b034a25e388cc"
+    documentation="Collects metadata from various sources, typically served by a dataset registry and operating an aggregator tool that compiles the selected data(sets) and provides it to a consuming application. "/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NDE Dataset Register API"
+    id="id-36e34cfe1be840a78d434d207abdb47f"
+    documentation="https://datasetregister.netwerkdigitaalerfgoed.nl/api/"/>
