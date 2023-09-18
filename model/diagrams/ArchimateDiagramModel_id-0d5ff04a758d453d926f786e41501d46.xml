@@ -559,4 +559,15 @@
           href="Product_id-84d6406c177b4d2a8f4c1dcb6d3c7080.xml#id-84d6406c177b4d2a8f4c1dcb6d3c7080"/>
     </children>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-a78c3fe51cec4b4e93258edf7e519a1d"
+      textAlignment="1"
+      content="WM: Je kunt een flow relation gebruiken&#xD;&#xA;">
+    <bounds
+        x="924"
+        y="252"
+        width="157"
+        height="43"/>
+  </children>
 </archimate:ArchimateDiagramModel>
