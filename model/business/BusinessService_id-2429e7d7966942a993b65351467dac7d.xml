@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Statistics service"
+    id="id-2429e7d7966942a993b65351467dac7d"
+    documentation="Delivers custom statistics about metadata on request"/>
