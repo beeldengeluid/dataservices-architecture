@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Live data user"
+    id="id-0012cf80afe444fe88570148a2324a63"
+    documentation="Someone who accesses live data via the Data Services infrastructure"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Project partner"
+    id="id-1b5651b0710a42c3935d76039b31d683"
+    documentation="A project partner is an external partner working on a project which requires the use and/or development of Data Services. They may take on any of the roles. What is special about a project partner, is that they will receive more intensive support than normal Data Service users, as they are project partners, and the project may even be funding development of the Data Services. They will also receive custom support and services, which may later become part of the Data Services."/>

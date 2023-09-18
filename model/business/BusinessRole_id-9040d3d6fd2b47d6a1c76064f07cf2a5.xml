@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dataset downloader"
+    id="id-9040d3d6fd2b47d6a1c76064f07cf2a5"
+    documentation="A person who wants to download the metadata of a dataset to their own computer"/>

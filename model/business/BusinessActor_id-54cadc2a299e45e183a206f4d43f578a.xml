@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Decision maker"
+    id="id-54cadc2a299e45e183a206f4d43f578a"
+    documentation="An NISV employee in charge of making a decision, who needs statistics from the metadata to support their decision.&#xD;&#xA;"/>
