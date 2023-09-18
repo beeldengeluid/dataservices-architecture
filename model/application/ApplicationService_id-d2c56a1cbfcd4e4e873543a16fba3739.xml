@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="LOD endpoint"
     id="id-d2c56a1cbfcd4e4e873543a16fba3739"
-    documentation="The SPARQL endpoint for NISV. "/>
+    documentation="Dit is de beng-lod-server"/>

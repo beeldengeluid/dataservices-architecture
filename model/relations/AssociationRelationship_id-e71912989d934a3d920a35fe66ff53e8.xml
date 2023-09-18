@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="shares information"
+    id="id-e71912989d934a3d920a35fe66ff53e8"
+    documentation="involved in producing the dataset in a decision maker role, representing an organisation and part of a heritage network.">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-0e0c3fd76aa541b89d9390e17b960621.xml#id-0e0c3fd76aa541b89d9390e17b960621"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-fc8c302b90754293a52577a1fc7a7169.xml#id-fc8c302b90754293a52577a1fc7a7169"/>
+</archimate:AssociationRelationship>
