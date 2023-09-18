@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Media Suite APIs"
-    id="id-1137318a140e4d11b31de7d8ab2e16c6"/>
+    id="id-1137318a140e4d11b31de7d8ab2e16c6"
+    documentation="The APIs developed for the communication between the Media Suite front end and back end. The Search API is available for use by researchers if they are issued a token and given access to the NISV VPN. The other APIs are only accessible to O-team developers."/>

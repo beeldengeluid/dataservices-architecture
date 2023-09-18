@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Software/environment provider"
-    id="id-b286d0450f244200b8c337faa91c9390"/>
+    id="id-b286d0450f244200b8c337faa91c9390"
+    documentation="An organisation providing software and/or an environment to run software in"/>

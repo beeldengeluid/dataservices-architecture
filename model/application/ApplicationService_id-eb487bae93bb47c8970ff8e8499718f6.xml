@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Thesaurus Service Layer"
-    id="id-eb487bae93bb47c8970ff8e8499718f6"/>
+    id="id-eb487bae93bb47c8970ff8e8499718f6"
+    documentation="Provides access to the GTAA thesaurus, used by NISV. Allows search. **Willem - wie heeft toegang?**"/>

@@ -1,4 +1,5 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="NDE Dataset Register"
-    id="id-84d6406c177b4d2a8f4c1dcb6d3c7080"/>
+    id="id-84d6406c177b4d2a8f4c1dcb6d3c7080"
+    documentation="A dataset register run by the Dutch Netwerk voor Digitaal Erfgoed (network for digital heritage)"/>

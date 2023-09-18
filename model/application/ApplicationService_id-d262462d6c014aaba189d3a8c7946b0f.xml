@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PK Knowledge Graph"
-    id="id-d262462d6c014aaba189d3a8c7946b0f"/>
+    id="id-d262462d6c014aaba189d3a8c7946b0f"
+    documentation="Under development&#xD;&#xA;The linked data knowledge graph developed in the Podiumkunst.net project"/>

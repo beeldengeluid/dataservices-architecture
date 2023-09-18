@@ -1,4 +1,5 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Muziekencyclopaedie"
-    id="id-b8fe273508fd47799808ed48748cb2d7"/>
+    id="id-b8fe273508fd47799808ed48748cb2d7"
+    documentation="A knowledge platform about Dutch musical history, developed and hosted by NISV. Not currently under active development, future is uncertain."/>

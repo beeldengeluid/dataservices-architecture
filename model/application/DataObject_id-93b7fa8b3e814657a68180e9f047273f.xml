@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Requests via Email"
-    id="id-93b7fa8b3e814657a68180e9f047273f"/>
+    id="id-93b7fa8b3e814657a68180e9f047273f"
+    documentation="NISV receives requests via email for data services"/>

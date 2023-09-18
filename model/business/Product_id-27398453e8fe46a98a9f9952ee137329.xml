@@ -1,4 +1,5 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="repo: Github"
-    id="id-27398453e8fe46a98a9f9952ee137329"/>
+    id="id-27398453e8fe46a98a9f9952ee137329"
+    documentation="A platform hosting repositories for developers to store code under version control"/>

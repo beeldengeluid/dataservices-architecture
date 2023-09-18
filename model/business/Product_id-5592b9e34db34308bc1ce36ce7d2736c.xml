@@ -1,4 +1,5 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="repo: CKAN"
-    id="id-5592b9e34db34308bc1ce36ce7d2736c"/>
+    id="id-5592b9e34db34308bc1ce36ce7d2736c"
+    documentation="A registry of collections. The Clariah Media Suite uses CKAN to register its collections"/>

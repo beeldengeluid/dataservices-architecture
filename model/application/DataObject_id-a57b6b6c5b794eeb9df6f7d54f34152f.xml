@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Pilots, Demos, Data Stories"
-    id="id-a57b6b6c5b794eeb9df6f7d54f34152f"/>
+    id="id-a57b6b6c5b794eeb9df6f7d54f34152f"
+    documentation="Various initiatives to demonstrate the value of Data Services to potential users. "/>

@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="LOD: Data Science Notebooks"
-    id="id-b17edc992ee74a63aa858f19a9a4f95c"/>
+    id="id-b17edc992ee74a63aa858f19a9a4f95c"
+    documentation="Jupyter notebooks developed by NISV to demonstrate what can be done with the NISV linked data. As the linked data is public, these notebooks are stored n a public repository and can be run in public tools such as Google Collab."/>
