@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BenG Jupyter Notebooks"
     id="id-e448efdf6a3c4fca8041252778de5686"
-    documentation="Examples of analysis that can be performed with NISV data"/>
+    documentation="Example notebooks with analysis that can be performed with NISV data. These notebooks use the Search API and so require a token and VPN to use. They can access closed data such as ASR."/>

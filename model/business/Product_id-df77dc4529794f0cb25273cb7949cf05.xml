@@ -1,4 +1,5 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Network of Terms"
-    id="id-df77dc4529794f0cb25273cb7949cf05"/>
+    id="id-df77dc4529794f0cb25273cb7949cf05"
+    documentation="This network of terminologies is run by the NDE. A portal allows users to search across the thesauri, classifications and termlists in the network."/>

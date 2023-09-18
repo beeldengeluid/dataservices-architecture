@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Legal advisor"
-    id="id-ab83a14d3ec14e828909cf0800831049"/>
+    id="id-ab83a14d3ec14e828909cf0800831049"
+    documentation="An NISV employee responsible for giving legal advice"/>

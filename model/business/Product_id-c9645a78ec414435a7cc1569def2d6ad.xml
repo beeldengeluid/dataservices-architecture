@@ -1,4 +1,5 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="website: Muziekweb"
-    id="id-c9645a78ec414435a7cc1569def2d6ad"/>
+    id="id-c9645a78ec414435a7cc1569def2d6ad"
+    documentation="A website for searching the Muziekweb collection of music. Users can search, listen to short segments, view related links and order CDs on loan. "/>

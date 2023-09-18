@@ -1,4 +1,5 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="env: Google Colab"
-    id="id-69e8ac4b5d30476cab16f8a473aae1fc"/>
+    id="id-69e8ac4b5d30476cab16f8a473aae1fc"
+    documentation="Public environment for running notebooks stored in a public Github repository"/>

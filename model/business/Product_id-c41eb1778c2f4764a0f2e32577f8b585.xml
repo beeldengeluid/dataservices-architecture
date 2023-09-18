@@ -1,4 +1,5 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="website: GPP"
-    id="id-c41eb1778c2f4764a0f2e32577f8b585"/>
+    id="id-c41eb1778c2f4764a0f2e32577f8b585"
+    documentation="The NISV portal for the general public to search the archive and - where possible - view items."/>

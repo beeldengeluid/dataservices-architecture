@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SANE administrator"
-    id="id-66827ff6f32447b6a7e54ab7c5f88e4b"/>
+    id="id-66827ff6f32447b6a7e54ab7c5f88e4b"
+    documentation="A person capable of administering collaborations and workspaces in SANE. E.g. inviting new users, creating workspaces, adding data or scripts to a workspace, retrieving results from a workspace."/>

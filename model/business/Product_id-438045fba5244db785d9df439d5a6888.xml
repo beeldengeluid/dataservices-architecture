@@ -1,4 +1,5 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="repo: AnnoRepo"
-    id="id-438045fba5244db785d9df439d5a6888"/>
+    id="id-438045fba5244db785d9df439d5a6888"
+    documentation="Part of the Clariah infrastructure, a repository for annotations of archive content created by researchers"/>

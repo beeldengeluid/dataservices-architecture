@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Support"
-    id="id-a4269fd3b3ea44b08f7ac8729d13f5a1"/>
+    id="id-a4269fd3b3ea44b08f7ac8729d13f5a1"
+    documentation="Offering support to users of software and services; answering questions, providing access to services, registering reported bugs."/>

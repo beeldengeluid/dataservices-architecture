@@ -1,4 +1,5 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="website: Huidige Labs-omgeving"
-    id="id-616d04a2b31c452fb09442b0f86218c7"/>
+    id="id-616d04a2b31c452fb09442b0f86218c7"
+    documentation="The labs.beeldengeluid.nl website as it stands in September 2023. Hosts descriptions of datasets, projects and blogs. Scheduled to be refactored."/>

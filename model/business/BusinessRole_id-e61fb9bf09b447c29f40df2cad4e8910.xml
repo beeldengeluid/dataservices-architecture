@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Software developer"
-    id="id-e61fb9bf09b447c29f40df2cad4e8910"/>
+    id="id-e61fb9bf09b447c29f40df2cad4e8910"
+    documentation="A person who develops software for others to use."/>

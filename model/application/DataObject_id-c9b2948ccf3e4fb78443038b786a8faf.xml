@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="External Dataset"
-    id="id-c9b2948ccf3e4fb78443038b786a8faf"/>
+    id="id-c9b2948ccf3e4fb78443038b786a8faf"
+    documentation="A dataset not belonging to or hosted by NISV"/>

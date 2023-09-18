@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="env: SANE"
     id="id-26c2a3a016f24c8386f41e1c4b13a431"
-    documentation="Tinker (run/interact with Data Science notebooks)&#xD;&#xA;Blind (run any script)"/>
+    documentation="Secure environment for invited users to analyse closed data using a limited set of tools. Comes in two variants:&#xD;&#xA;- Tinker (run/interact with Data Science notebooks or R. User can see the original data, the scripts and the resutls)&#xD;&#xA;- Blind (run any script. The user submits the script and receives the results, but never sees the original data)"/>

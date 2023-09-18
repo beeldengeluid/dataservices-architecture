@@ -1,4 +1,5 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="repo: Zenodo"
-    id="id-a4657fe153c9432db40d4a3b8f1fd849"/>
+    id="id-a4657fe153c9432db40d4a3b8f1fd849"
+    documentation="Zenodo is a platform where researchers can publish their research under a persistent identifier"/>

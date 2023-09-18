@@ -1,4 +1,5 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="website: LOD Comunica client"
-    id="id-169df73028444fcab88384be4a32a6ed"/>
+    id="id-169df73028444fcab88384be4a32a6ed"
+    documentation="A client providing a user-friendly interface for querying the NISV SPARQL endpoint. It provides feedback on query errors and a list of curated example queries."/>

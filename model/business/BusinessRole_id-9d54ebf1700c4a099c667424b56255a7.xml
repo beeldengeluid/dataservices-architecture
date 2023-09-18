@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Research software engineer"
-    id="id-9d54ebf1700c4a099c667424b56255a7"/>
+    id="id-9d54ebf1700c4a099c667424b56255a7"
+    documentation="Develops software to be used in research. May be the researcher conducting the research, another researcher, or a software developer."/>
