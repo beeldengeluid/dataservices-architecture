@@ -1,5 +1,5 @@
-<archimate:ApplicationService
+<archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Muziekweb LOD"
-    id="id-1a228668436540199bbc45cdcf11bdda"
+    id="id-57da5e4553604c68ad666079177313fe"
     documentation="SPARQL endpoint for the Muziekweb linked data "/>

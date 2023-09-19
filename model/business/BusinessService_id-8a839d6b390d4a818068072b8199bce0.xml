@@ -1,5 +1,5 @@
-<archimate:ApplicationService
+<archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="LOD endpoint"
-    id="id-d2c56a1cbfcd4e4e873543a16fba3739"
+    id="id-8a839d6b390d4a818068072b8199bce0"
     documentation="Dit is de beng-lod-server"/>

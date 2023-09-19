@@ -46,8 +46,8 @@
             width="120"
             height="55"/>
         <archimateElement
-            xsi:type="archimate:ApplicationService"
-            href="ApplicationService_id-eb487bae93bb47c8970ff8e8499718f6.xml#id-eb487bae93bb47c8970ff8e8499718f6"/>
+            xsi:type="archimate:BusinessService"
+            href="BusinessService_id-123809e465ed49e087bf4dfc4102d2e4.xml#id-123809e465ed49e087bf4dfc4102d2e4"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -157,8 +157,8 @@
             width="120"
             height="55"/>
         <archimateElement
-            xsi:type="archimate:ApplicationService"
-            href="ApplicationService_id-b278b49c40c342d5b3b76861aec66f85.xml#id-b278b49c40c342d5b3b76861aec66f85"/>
+            xsi:type="archimate:BusinessService"
+            href="BusinessService_id-849ed70383604889b043fd0a4f841349.xml#id-849ed70383604889b043fd0a4f841349"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -169,8 +169,8 @@
             width="120"
             height="55"/>
         <archimateElement
-            xsi:type="archimate:ApplicationService"
-            href="ApplicationService_id-1a228668436540199bbc45cdcf11bdda.xml#id-1a228668436540199bbc45cdcf11bdda"/>
+            xsi:type="archimate:BusinessService"
+            href="BusinessService_id-57da5e4553604c68ad666079177313fe.xml#id-57da5e4553604c68ad666079177313fe"/>
       </children>
     </children>
     <children
@@ -205,8 +205,8 @@
             width="120"
             height="55"/>
         <archimateElement
-            xsi:type="archimate:ApplicationService"
-            href="ApplicationService_id-d2c56a1cbfcd4e4e873543a16fba3739.xml#id-d2c56a1cbfcd4e4e873543a16fba3739"/>
+            xsi:type="archimate:BusinessService"
+            href="BusinessService_id-8a839d6b390d4a818068072b8199bce0.xml#id-8a839d6b390d4a818068072b8199bce0"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -287,8 +287,8 @@
             width="120"
             height="55"/>
         <archimateElement
-            xsi:type="archimate:ApplicationService"
-            href="ApplicationService_id-1137318a140e4d11b31de7d8ab2e16c6.xml#id-1137318a140e4d11b31de7d8ab2e16c6"/>
+            xsi:type="archimate:BusinessService"
+            href="BusinessService_id-2762c41bb94f4ac78172f378e6f8024b.xml#id-2762c41bb94f4ac78172f378e6f8024b"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -451,8 +451,8 @@
         width="120"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_id-d262462d6c014aaba189d3a8c7946b0f.xml#id-d262462d6c014aaba189d3a8c7946b0f"/>
+        xsi:type="archimate:BusinessService"
+        href="BusinessService_id-380a7b60f74346a39980389e1b6a1aee.xml#id-380a7b60f74346a39980389e1b6a1aee"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -577,8 +577,8 @@
           width="120"
           height="55"/>
       <archimateElement
-          xsi:type="archimate:ApplicationService"
-          href="ApplicationService_id-61dc6029cd0a48868507589808ee7fc5.xml#id-61dc6029cd0a48868507589808ee7fc5"/>
+          xsi:type="archimate:BusinessService"
+          href="BusinessService_id-ba8ae422d25d4d6798b7323801e8557a.xml#id-ba8ae422d25d4d6798b7323801e8557a"/>
     </children>
   </children>
   <children

@@ -5,8 +5,8 @@
     id="id-7c1610162bf74a9596b9b62e034376ff"
     documentation="Sends requests to the endpoint and compiles these in a data store">
   <source
-      xsi:type="archimate:ApplicationService"
-      href="ApplicationService_id-d2c56a1cbfcd4e4e873543a16fba3739.xml#id-d2c56a1cbfcd4e4e873543a16fba3739"/>
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-8a839d6b390d4a818068072b8199bce0.xml#id-8a839d6b390d4a818068072b8199bce0"/>
   <target
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_id-f3ae1dfa2777400bb19b034a25e388cc.xml#id-f3ae1dfa2777400bb19b034a25e388cc"/>

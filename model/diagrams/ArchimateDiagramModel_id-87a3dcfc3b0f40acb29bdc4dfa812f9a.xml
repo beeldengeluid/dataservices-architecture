@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Collection Owner"
+    name="Dataset Owner"
     id="id-87a3dcfc3b0f40acb29bdc4dfa812f9a"
     documentation="Owns a collection published in the Data Services, wants to check the status and share the collection">
   <children
@@ -204,8 +204,8 @@
         width="120"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_id-d2c56a1cbfcd4e4e873543a16fba3739.xml#id-d2c56a1cbfcd4e4e873543a16fba3739"/>
+        xsi:type="archimate:BusinessService"
+        href="BusinessService_id-8a839d6b390d4a818068072b8199bce0.xml#id-8a839d6b390d4a818068072b8199bce0"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -386,5 +386,16 @@
     <archimateElement
         xsi:type="archimate:Gap"
         href="Gap_id-29f88a6244dc4829bbbc19db56527132.xml#id-29f88a6244dc4829bbbc19db56527132"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-caea05eb5d194fb2ac81a58e0315d922"
+      textAlignment="1"
+      content="dit gaat nu over datasets die wij als B&amp;G beschikbaar maken">
+    <bounds
+        x="1087"
+        y="518"
+        width="185"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>
