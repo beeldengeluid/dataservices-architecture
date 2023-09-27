@@ -1,4 +1,5 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ineo"
-    id="id-a8ac7604eb3a4f4b9fe4e4392d0054d5"/>
+    name="repo: Ineo"
+    id="id-a8ac7604eb3a4f4b9fe4e4392d0054d5"
+    documentation="A portal for accessing resources (tools and data) developed with the Clariah projects"/>

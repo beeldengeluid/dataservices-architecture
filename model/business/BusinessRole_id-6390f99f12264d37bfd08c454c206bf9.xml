@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Statistics requester"
+    id="id-6390f99f12264d37bfd08c454c206bf9"
+    documentation="A person needing custom statistics from metadata"/>

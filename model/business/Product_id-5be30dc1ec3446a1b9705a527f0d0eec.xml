@@ -1,4 +1,5 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="EUScreen"
-    id="id-5be30dc1ec3446a1b9705a527f0d0eec"/>
+    name="website: EUScreen"
+    id="id-5be30dc1ec3446a1b9705a527f0d0eec"
+    documentation="A portal for access to archival items from European broadcasters and archives. Items from EUScreen are contributed to Europeana"/>

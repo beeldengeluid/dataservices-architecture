@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="A-team member"
-    id="id-9f64e8ffaeba44e0849ef9878fcaa664"/>
+    id="id-9f64e8ffaeba44e0849ef9878fcaa664"
+    documentation="Software developer responsible for developing and maintaining production services such as the Flexstore"/>

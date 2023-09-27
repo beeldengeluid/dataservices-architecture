@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Thesaurus Service Layer"
+    id="id-123809e465ed49e087bf4dfc4102d2e4"
+    documentation="Set of services that provide public access to the GTAA data as well as an API that enables registered users to manage the content.&#xD;&#xA;"/>

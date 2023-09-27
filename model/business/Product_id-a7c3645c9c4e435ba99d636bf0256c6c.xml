@@ -1,4 +1,5 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="OpenBeelden"
-    id="id-a7c3645c9c4e435ba99d636bf0256c6c"/>
+    name="website: OpenBeelden"
+    id="id-a7c3645c9c4e435ba99d636bf0256c6c"
+    documentation="Deprecated, still in use but no longer supported&#xD;&#xA;Hosts a curated selection of images and videos in the public domain, with redacted and curated metadata. Includes items from NISV. These have their own identifiers, and do not link back to the original NISV identifiers. Johannes Wassenaar has written a script which has allowed a number of Open Beelden items to be linked back to NISV. &#xD;&#xA;Europeana currently relies on OpenBeelden to have a link to the content of items for which metadata is harvested from NISV. There is currently no solution for what will happen when OpenBeelden fails.&#xD;&#xA;"/>

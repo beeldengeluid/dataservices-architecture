@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Qualitative researcher"
-    id="id-e1e31ef85dcf41c9b7b009c009663230"/>
+    id="id-e1e31ef85dcf41c9b7b009c009663230"
+    documentation="A researcher conducting their research by examining collections and archive items through manually reading and viewing metadata and content"/>

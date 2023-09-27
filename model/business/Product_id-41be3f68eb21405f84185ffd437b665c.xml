@@ -1,4 +1,5 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Nieuwe Data website (naam nttb)"
-    id="id-41be3f68eb21405f84185ffd437b665c"/>
+    name="website: New data portal"
+    id="id-41be3f68eb21405f84185ffd437b665c"
+    documentation="Name tbd&#xD;&#xA;The successor of the current Labs website, to be developed shortly. It will list datasets, APIs and tools published by NISV. It will no longer contain project information, but will contain showcases of how the datasets, APIs and tools are used. &#xD;&#xA;"/>

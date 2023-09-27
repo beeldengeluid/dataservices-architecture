@@ -1,4 +1,5 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Media Suite"
-    id="id-88ac6ab9b9494b10a4eb1e55b339a775"/>
+    name="website: Media Suite"
+    id="id-88ac6ab9b9494b10a4eb1e55b339a775"
+    documentation="The user interface for the Media Suite. It allows researchers to search through a number of heritage media collections (including those belonging to NISV), view items, bookmark and annotate them."/>
