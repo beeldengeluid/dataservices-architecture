@@ -27,7 +27,9 @@ jobs:
         echo '9db094e13515b32c75c48f251b4cf59c890c978d coarchi.archiplugin' | sha1sum --check
 
         tar xf archi.tgz
-        unzip coarchi.archiplugin -d ./Archi/plugins
+        # install plugin according to https://www.archimatetool.com/plugins/
+        mkdir --parents "$HOME/.archi/dropins"
+        unzip coarchi.archiplugin -d "$HOME/.archi/dropins"
     - name: Generate HTML
       run: |
         # use xvfb-run to get a virtual framebuffer and run headless
