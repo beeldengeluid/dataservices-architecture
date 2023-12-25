@@ -48,7 +48,7 @@ jobs:
         mv html_report _site
         tar czf github-pages _site
     - name: Upload to Pages
-      uses: actions/upload-pages-artifact@v2
+      uses: actions/upload-pages-artifact@v3
 
   deploy:
     name: Deploy
