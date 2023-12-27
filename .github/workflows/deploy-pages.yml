@@ -21,9 +21,9 @@ jobs:
         sudo apt-get install -y xvfb
     - name: Install Archi and CoArchi
       run: |
-        wget --output-document='archi.tgz' 'https://www.archimatetool.com/downloads/archi5.php?/5.1.0/Archi-Linux64-5.1.0.tgz'
+        wget --output-document='archi.tgz' 'https://www.archimatetool.com/downloads/archi5.php?/5.2.0/Archi-Linux64-5.2.0.tgz'
         wget --output-document='coarchi.archiplugin' 'https://www.archimatetool.com/downloads/coarchi/coArchi_0.8.8.archiplugin'
-        echo '6933dc7866e760c8bea80e960799b44cedbaff24 archi.tgz' | sha1sum --check
+        echo '7696de162658d705179ee629706219cb0bd41188 archi.tgz' | sha1sum --check
         echo '9db094e13515b32c75c48f251b4cf59c890c978d coarchi.archiplugin' | sha1sum --check
 
         tar xf archi.tgz
