@@ -1,0 +1,70 @@
+name: Deploy to Pages
+
+on:
+  push:
+    branches:
+    - master
+
+jobs:
+  build:
+    name: Build, Archive, Upload
+    runs-on: ubuntu-22.04
+    timeout-minutes: 10 # Archi can stall on errors
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+      with:
+        path: repository
+    - name: Prepare Archi Environment
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y xvfb
+    - name: Install Archi and CoArchi
+      run: |
+        wget --output-document='archi.tgz' 'https://www.archimatetool.com/downloads/archi-5.php?/5.2.0/Archi-Linux64-5.2.0.tgz'
+        wget --output-document='coarchi.archiplugin' 'https://www.archimatetool.com/downloads/coarchi/coArchi_0.9.2.archiplugin'
+        echo '7696de162658d705179ee629706219cb0bd41188 archi.tgz' | sha1sum --check
+        echo 'f698eb5461c06f4cc46ddd1192b9473af51e1e93 coarchi.archiplugin' | sha1sum --check
+
+        tar xf archi.tgz
+        # install plugin according to https://www.archimatetool.com/plugins/
+        mkdir --parents "$HOME/.archi/dropins"
+        unzip coarchi.archiplugin -d "$HOME/.archi/dropins"
+    - name: Generate HTML
+      run: |
+        # use xvfb-run to get a virtual framebuffer and run headless
+        # https://github.com/archimatetool/archi/wiki/Archi-Command-Line-Interface/8e7baff522421fb744ae921c46e4be178df7fdc3#running-on-linux-without-graphics-headless
+        xvfb-run ./Archi/Archi -application com.archimatetool.commandline.app -consoleLog -nosplash --abortOnException --modelrepository.loadModel "$PWD/repository" --html.createReport html_report
+    - name: Prepare HTML for Pages
+      run: |
+        # fix permissions, see
+        # https://github.com/actions/upload-pages-artifact#example-permissions-fix-for-linux
+        chmod -v -R +rX "html_report" | while read line; do
+          echo "::warning title=Invalid file permissions automatically fixed::$line"
+        done
+
+        # now pack it for export, in required format
+        # https://github.com/actions/upload-pages-artifact#artifact-validation
+        mv html_report _site
+        tar czf github-pages _site
+    - name: Upload to Pages
+      uses: actions/upload-pages-artifact@v3
+
+  deploy:
+    name: Deploy
+    needs: build
+    
+    permissions:
+      actions: read
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.output.pages_url }}
+
+    runs-on: ubuntu-22.04
+    steps:
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4
