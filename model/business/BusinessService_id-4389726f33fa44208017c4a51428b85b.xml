@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ALMA JustSKOS API"
+    id="id-4389726f33fa44208017c4a51428b85b"
+    documentation="Several services aroung the Core thesaurus system, an instance of JustSKOS, called ALMA."/>

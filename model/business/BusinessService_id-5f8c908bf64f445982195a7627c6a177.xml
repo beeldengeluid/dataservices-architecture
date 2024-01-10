@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GTAA CRUD API"
+    id="id-5f8c908bf64f445982195a7627c6a177"
+    documentation="restful aplication programming interface allowing user with the right permission to add candidate terms in the GTAA. "/>

@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GTAA SPARQL endpoint"
+    id="id-7090958d5e734d1097b505b4abca7318"
+    documentation="Service Layer SPARQL endpoint providing direct access to up-to-date GTAA information.&#xD;&#xA;"/>
