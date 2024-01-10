@@ -270,4 +270,15 @@
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-f2508fc855d1484b97ad01001679a94b.xml#id-f2508fc855d1484b97ad01001679a94b"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-48658988f1f54ea7bb74d9c2d6e772e6"
+      textAlignment="1"
+      content="This story is described in this document: https://docs.google.com/document/d/1XkYM21hcZ6Qp_Ql-PKTvLElwORL643D6ZVH4-fe1iPw">
+    <bounds
+        x="107"
+        y="219"
+        width="185"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>

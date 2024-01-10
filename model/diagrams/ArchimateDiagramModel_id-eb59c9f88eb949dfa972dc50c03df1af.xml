@@ -509,4 +509,15 @@
         xsi:type="archimate:BusinessService"
         href="BusinessService_id-d66256702d8b4c0a848a83380675d44e.xml#id-d66256702d8b4c0a848a83380675d44e"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-62ed43c358fc479880818e6c2d40f6cb"
+      textAlignment="1"
+      content="User story is described in this document https://docs.google.com/document/d/1RHv4GegqUk9NxToasc4xmKbKqWgu0NCGBMs0eBb2lhc">
+    <bounds
+        x="923"
+        y="26"
+        width="185"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>

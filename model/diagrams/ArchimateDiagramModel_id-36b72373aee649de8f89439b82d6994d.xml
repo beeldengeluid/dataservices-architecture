@@ -346,4 +346,15 @@
         width="185"
         height="173"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-24194ec0940648d693227d2bafcd002c"
+      textAlignment="1"
+      content="This story is described in this document: https://docs.google.com/document/d/1nFCuB1t2tSwEF-vmOwpbV-8efUmP8JzMmysNp5ajNyw">
+    <bounds
+        x="258"
+        y="103"
+        width="185"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>
