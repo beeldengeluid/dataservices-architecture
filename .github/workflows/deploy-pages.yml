@@ -23,10 +23,10 @@ jobs:
       id: restore-cache
       uses: actions/cache/restore@0c45773b623bea8c8e75f6c82b208c3cf94ea4f9 # v4.0.2
       with:
-        key: Archi
+        key: Archi-542-CoArchi-092
         path: |
-          ./Archi-Linux64-5.4.2.tgz
-          ./coArchi_0.9.2.archiplugin
+          archi.tgz
+          coarchi.archiplugin
     - name: Download Archi
       if: steps.restore-cache.outputs.cache-hit != 'true'
       run: |
@@ -40,10 +40,10 @@ jobs:
       if: steps.restore-cache.outputs.cache-hit != 'true'
       uses: actions/cache/save@0c45773b623bea8c8e75f6c82b208c3cf94ea4f9 # v4.0.2
       with:
-        key: Archi
+        key: Archi-542-CoArchi-092
         path: |
-          ./Archi-Linux64-5.4.2.tgz
-          ./coArchi_0.9.2.archiplugin
+          archi.tgz
+          coarchi.archiplugin
     - name: Install Archi
       run: |
         tar xf archi.tgz
