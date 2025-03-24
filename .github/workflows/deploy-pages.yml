@@ -21,7 +21,7 @@ jobs:
         sudo apt-get install -y xvfb
     - name: Restore cache
       id: restore-cache
-      uses: actions/cache/restore@0c907a75c2c80ebcb7f088228285e798b750cf8f # v4.2.1
+      uses: actions/cache/restore@5a3ec84eff668545956fd18022155c47e93e2684 # v4.2.3
       with:
         key: Archi-543-CoArchi-092
         path: |
@@ -38,7 +38,7 @@ jobs:
         echo '503274b214d2d7452f1f1596da6302f800e4b784 coarchi.archiplugin' | sha1sum --check
     - name: Update cache
       if: steps.restore-cache.outputs.cache-hit != 'true'
-      uses: actions/cache/save@0c907a75c2c80ebcb7f088228285e798b750cf8f # v4.2.1
+      uses: actions/cache/save@5a3ec84eff668545956fd18022155c47e93e2684 # v4.2.3
       with:
         key: Archi-550-CoArchi-093
         path: |
